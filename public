@@ -1,9 +1,0 @@
-Interactive-weaving/
-  public/
-    index.html
-    sketch.js
-    style.css
-    p5.sound.min.js
-  server.js
-  package.json
-  README.md
